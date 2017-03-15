@@ -1,1 +1,3 @@
 sua lan 1 tren branch issue1
+
+sau khi push len thi da thay su khac biet giua cac branch
